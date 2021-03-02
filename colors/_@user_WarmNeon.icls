@@ -3,7 +3,7 @@
     <property name="created">2021-02-17T02:55:40</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-01T02:41:16</property>
+    <property name="modified">2021-03-02T15:44:52</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <colors>
@@ -725,7 +725,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="d14c42" />
@@ -887,8 +887,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="OC.MESSAGE_ARGUMENT" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="OC.METHOD_DECLARATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="OC.STRUCT_FIELD">
       <value>
         <option name="FOREGROUND" value="b9b9b9" />

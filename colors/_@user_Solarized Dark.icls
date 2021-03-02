@@ -3,7 +3,7 @@
     <property name="created">2021-02-17T02:55:40</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-01T02:41:16</property>
+    <property name="modified">2021-03-02T15:44:53</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <colors>
@@ -2039,8 +2039,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="OC.MESSAGE_ARGUMENT" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="OC.METHOD_DECLARATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="OC.NUMBER">
       <value>
         <option name="FOREGROUND" value="2aa198" />
