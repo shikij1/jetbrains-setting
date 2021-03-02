@@ -1,0 +1,19 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="11" />
+      <type value="SimpleJavaSdkType" />
+      <version value="java version &quot;11.0.10&quot;" />
+      <homePath value="/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
